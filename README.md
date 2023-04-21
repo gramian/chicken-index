@@ -31,9 +31,10 @@ The `chicken-index.json` file contains symbols from the modules:
 
 ## Usage
 
-Firefox, and likely other browser render `.json` files in a searcheable manner.
-Particularly Firefox allows filtering a json by text and presorts an object by default alphabetically.
+Firefox, and likely other browsers render `.json` files in a searcheable manner.
+Particularly Firefox allows filtering a json by text, and presorts an object' properties by default alphabetically with respect to the keys.
+
 Either download `chicken-index.json` and open it locally in your (Firefox) browser,
-or go a service like: https://cdn.jsdelivr.net/gh/gramian/chicken-index/chicken-index.json
+or go to a service like: https://cdn.jsdelivr.net/gh/gramian/chicken-index/chicken-index.json
 Using raw github files will not work, as the sent content type is `text/plain`,
 but `application/json` is required here.
