@@ -2,7 +2,7 @@
 
 ## Purpose
 
-With a browser, such as Firefox, the `chicken-index.json` in this repository can be used as searcheable index with links to the associated documentation.
+With a browser such as `Firefox`, the `chicken-index.json` in this repository can be used as searcheable index with links to the associated documentation.
 Various Scheme implementations like
 [Bigloo](https://www-sop.inria.fr/mimosa/fp/Bigloo/idx.html),
 [Chez Scheme](http://cisco.github.io/ChezScheme/csug9.5/csug_1.html#./),
